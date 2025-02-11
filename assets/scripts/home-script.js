@@ -7,6 +7,8 @@
 
 /* Comment : ... */
 /* TODO : Menambahkan fungsionalitas tombol logout */
+
+let hell = "No";
 const buttonLogoutElement = document.querySelector('#buttonLogout');
 
 buttonLogoutElement.addEventListener('click', function() {
